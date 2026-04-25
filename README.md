@@ -1,58 +1,58 @@
 <h1 align="center">Jadven</h1>
 
 <p align="center">
-  <b>Developer • Automation • Cyber Stuff</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Developer;Discord+Bot+Developer;Automation+Systems;Cybersecurity+Interested" />
+  Backend Developer • Automation • Systems
 </p>
 
 ---
 
-## 🧠 About Me
+## About
 
-* 💻 Building **Discord bots & automation systems**
-* ⚙️ Focused on **backend & logic**
-* 🛡️ Interested in **cybersecurity**
-* 📚 Always improving
+I build backend-focused tools and automation systems, primarily working with Python and JavaScript.
+My focus is on performance, simplicity, and building things that actually work in real scenarios.
 
 ---
 
-## 🧩 Languages & Skills
+## Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css" /><br><br>
-
-<img src="https://img.shields.io/badge/Python-Expert-00ffcc?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML/CSS-Advanced-orange?style=for-the-badge&logo=html5&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-Intermediate-green?style=for-the-badge&logo=node.js&logoColor=black" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,git,linux" />
 </p>
 
 ---
 
-## 📊 Stats
+## Languages
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jadven1337&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=jadven1337&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/Python-Primary-black?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-Secondary-black?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML/CSS-Working-black?style=flat&logo=html5" />
 </p>
 
 ---
 
-## 🚀 Focus
+## Stats
 
-* 🤖 Discord Bots
-* 🛠️ Automation Tools
-* 🛡️ Security Experiments
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jadven1337&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+---
+
+## Focus
+
+* Backend systems
+* Automation tools
+* Practical scripting
 
 ---
 
-## 🧊 Quote
+## Contact
 
-> "Stay low. Keep building."
+GitHub: https://github.com/jadven1337
 
 ---
+
+<p align="left">
+  <sub>No noise. Just code.</sub>
+</p>
