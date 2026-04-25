@@ -1,10 +1,6 @@
 <h1 align="center">Jadven</h1>
 
 <p align="center">
-  Backend Developer • Automation
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=jadven1337&style=flat&color=grey" />
 </p>
 
