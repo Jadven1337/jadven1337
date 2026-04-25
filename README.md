@@ -19,4 +19,4 @@
 
 ## Contact
 
-GitHub: https://github.com/jadven1337
+Mail: jadven.work@outlook.com
