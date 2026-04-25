@@ -19,4 +19,4 @@
 
 ## Contact
 
-Mail: jadven.work@outlook.com
+jadven.work@outlook.com
