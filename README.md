@@ -21,14 +21,6 @@
 
 ---
 
-## Stats
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadven1337&theme=default&hide_border=true" />
-</p>
-
----
-
 ## Contact
 
 GitHub: https://github.com/jadven1337
