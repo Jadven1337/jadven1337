@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/Java-black?style=flat&logo=openjdk" />
   <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/C%23-black?style=flat&logo=csharp" />
   <img src="https://img.shields.io/badge/HTML/CSS-black?style=flat&logo=html5" />
 </p>
 
@@ -18,4 +19,8 @@
 
 ## Contact
 
-*jadven.work@outlook.com*
+<p align="center">
+  <a href="mailto:jadven.work@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-black?style=flat&logo=gmail" />
+  </a>
+</p>
