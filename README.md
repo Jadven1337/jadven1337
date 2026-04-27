@@ -20,7 +20,7 @@
 ## Contact
 
 <p align="center">
-  <a href="mailto:jadven.work@outlook.com">
+  <a href="jadven.work@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contact-black?style=flat&logo=gmail" />
   </a>
 </p>
